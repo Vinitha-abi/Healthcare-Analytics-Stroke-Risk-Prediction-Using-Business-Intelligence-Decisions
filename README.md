@@ -50,6 +50,8 @@ The project includes an interactive web dashboard built with **Gradio** that pro
 * **Interactive Filtering:** Filter data dynamically based on Age, Glucose levels, BMI, and Smoking Status.
 * **Live KPI Cards:** Displays real-time updates for Total Patients, Average Glucose, Average BMI, and Overall Stroke Rate.
 * **Visual Dashboards:** Renders dynamic charts (e.g., Risk Distribution, Co-morbidity Analysis) based on selected user inputs.
+ ## 🖥️ Dashboard Overview
+![Dashboard Screenshot](images/dashboard_preview.png)
 
 ---
 
