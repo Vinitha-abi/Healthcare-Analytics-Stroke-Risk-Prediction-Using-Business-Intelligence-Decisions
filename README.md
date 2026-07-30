@@ -17,7 +17,7 @@ The goal is to transform raw medical records into actionable clinical insights t
 * **Source:** Stroke Risk Clinical Dataset (`stroke_data_no_sno.csv`) via Mendeley Data Repository[cite: 1].
 * **Timeline / Year:** Data collected during the period 2026[cite: 1].
 * **Size:** 22,420 rows × 13 primary raw attributes (16 columns after feature engineering)[cite: 1].
-* **Anonymization:** Hospital names and geographic details are fully removed for patient privacy[cite: 1].
+* **Anonymization:** All personal identifiers and regional details are fully removed to protect patient privacy[cite: 1].
 
 ### Primary Attributes
 | Attribute | Nature | Description |
@@ -41,7 +41,15 @@ The goal is to transform raw medical records into actionable clinical insights t
 * **Environment:** Google Colab[cite: 1]
 * **Data Manipulation:** Pandas, NumPy[cite: 1]
 * **Data Visualization:** Matplotlib, Seaborn, Plotly Express[cite: 1]
-* **User Interface / Dashboard:** Gradio (Web Application UI)[cite: 1]
+* **User Interface / Dashboard:** Gradio (Web Application UI featuring live KPI cards, interactive filters, and dynamic charts)[cite: 1]
+
+---
+
+## 💻 Web Application Features (Gradio UI)
+The project includes an interactive web dashboard built with **Gradio** that provides:
+* **Interactive Filtering:** Filter data dynamically based on Age, Glucose levels, BMI, and Smoking Status[cite: 1].
+* **Live KPI Cards:** Displays real-time updates for Total Patients, Average Glucose, Average BMI, and Overall Stroke Rate[cite: 1].
+* **Visual Dashboards:** Renders dynamic charts (e.g., Risk Distribution, Co-morbidity Analysis) based on selected user inputs[cite: 1].
 
 ---
 
