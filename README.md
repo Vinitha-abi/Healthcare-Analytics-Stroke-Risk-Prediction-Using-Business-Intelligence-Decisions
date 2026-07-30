@@ -96,6 +96,10 @@ The project includes an interactive web dashboard built with **Gradio** that pro
 * **Age Exponential Trend:** Senior citizens (>75 years) exhibit a **19.3%** stroke rate compared to 0.1% in under-30 cohorts.
 * **Urban vs. Rural Disparity:** Urban areas show higher middle-aged risk due to stress/diet, while rural areas peak in elderly risk (**19.3%**) due to healthcare access barriers.
 * **Behavioral Drivers:** Formerly smoked patients exhibit a **7.2%** stroke rate, reflecting permanent microvascular damage.
+## Dash Board
+<img width="930" height="872" alt="image" src="https://github.com/user-attachments/assets/0273a3b2-e036-401f-9e38-9efde5ee004d" />
+https://9af1a887877966df13.gradio.live/
+
 
 ---
 
